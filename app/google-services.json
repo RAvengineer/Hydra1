@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "811656374362",
+    "firebase_url": "https://hydra-e620d.firebaseio.com",
+    "project_id": "hydra-e620d",
+    "storage_bucket": "hydra-e620d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811656374362:android:8918b675b5f210a7",
+        "android_client_info": {
+          "package_name": "com.example.rahulbera.hydra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811656374362-7g3ndef8i28pugknbs3qeqa5pcfcq5a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahulbera.hydra",
+            "certificate_hash": "23edfaf669af6f1d068bdca6b993a4fbc83d03c6"
+          }
+        },
+        {
+          "client_id": "811656374362-duj2nu6qbf7cgbnko6kq8fd286ta0bf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVx6ghUODlacjitM7JAjBXwEfzcSxwEzc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811656374362-duj2nu6qbf7cgbnko6kq8fd286ta0bf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

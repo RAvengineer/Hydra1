@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:background="#e0fdfc"
+    android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="417dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/hydra"
+        android:src="@drawable/hydra"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="59dp"
+        android:background="#e0fdfc"
+        android:text="Hydra"
+        android:textColor="#285cbe"
+        android:textSize="70sp" />
+
+
+</RelativeLayout>

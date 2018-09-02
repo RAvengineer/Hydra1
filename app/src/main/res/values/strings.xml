@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hydra</string>
+    <string-array name="milliliters">
+        <item>200ml</item>
+        <item>400ml</item>
+        <item>600ml</item>
+        <item>800ml</item>
+        <item>1000ml</item>
+
+    </string-array>
+</resources>
