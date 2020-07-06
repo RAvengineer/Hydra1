@@ -1,5 +1,15 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Hydra</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="start_device">Start device</string>
+    <string name="you_have_almost_finished">You have almost finished!</string>
+    <string name="todo">TODO</string>
+    <string name="workout_time">Workout Time</string>
+    <string name="enter_your_serving_size">Enter your serving size</string>
+    <string name="next">NEXT</string>
+    <string name="ml">ml</string>
+    <string name="todo1">TODO</string>
+    <string name="finaltest">FinalTest</string>
     <string-array name="milliliters">
         <item>200ml</item>
         <item>400ml</item>
